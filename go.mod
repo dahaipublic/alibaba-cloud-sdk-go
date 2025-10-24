@@ -1,4 +1,4 @@
-module github.com/aliyun/alibaba-cloud-sdk-go
+module github.com/dahaipublic/alibaba-cloud-sdk-go
 
 require (
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2 // indirect
